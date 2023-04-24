@@ -1,5 +1,5 @@
 - 👋 Hi, I’m jk u can call me jokkai thats my fav AKA.
-- i was a math teacher but now i start studying in coding :D so newbie newbie.
+-  now i start studying in coding :D so newbie newbie.
 - 👀 I’m interested about blockchain, but now keep focusing in fullstack development.
 - 🌱 I’m currently learning in fullstack developer and keep buidl ><
 - 💞️ I’m looking to collaborate on blockchain community.
